@@ -1,0 +1,6 @@
+main: space.gorogoro.connectioninformationsender.ConnectionInformationSender
+name: ConnectionInformationSender
+version: 0.1
+description: kubotanプラグイン
+author: kubotan
+website: http://gorogoro.space/
